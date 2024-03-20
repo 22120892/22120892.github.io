@@ -1,0 +1,158 @@
+body {    
+font-family: Arial;
+background-color: #000000;
+width: 900px;
+margin-right: auto;
+margin-left: auto;
+margin-top: 2px;
+}
+
+
+#page {
+background-color: #808080;
+}
+
+
+
+#navigation {
+text-align: right;
+padding-top: 10px;
+padding-right: 5px;
+}
+
+
+#maincontent {
+overflow: hidden;
+padding: 5px;
+}
+h2 {
+color: #003300;
+}
+
+h3 {
+color: #004800;
+}
+
+.img_right {
+  float: right;
+  padding-top: 15px;
+}
+
+table, th, td {
+  border:1px solid #004800;
+  float: center;
+  }
+
+.img-center {
+  float: center;
+}
+
+.img-left {
+  float: left;
+  padding-top: 15px;
+
+}
+
+#left {
+text-align: left;
+width: auto;
+height: 400px;
+
+}
+
+#bottomleft {
+  position: absolute;
+  bottom: 8px;
+  font-size: 18px;
+}
+
+.img_center {
+float:center;
+padding: 5px;
+
+}
+
+#center {
+text-align:center;
+width: auto;
+height:100px;
+padding-right:15px;
+color:white;
+
+}
+
+.body {
+    text-align: right;
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+
+}
+
+#right1 {
+text-align: right;
+width: auto;
+height: 450px;
+
+}
+
+#right2 {
+text-align: left;
+width: 200;
+height: 90px;
+
+}
+
+
+.img-right1 {
+  float: right;
+  padding-top: 15px;
+
+}
+
+#left1 {
+text-align: left;
+width: auto;
+height: 500px;
+
+}
+
+<meta name="viewport" content=
+        "width=device-width, initial-scale=3" />
+    <link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+ 
+
+<style>
+        .fa:hover {
+            opacity: 0.9;
+        }
+ 
+        .fa-instagram {
+            background: #808080;
+            color: white;
+        }
+.fa-linkedin {
+  background: #808080;
+  color: white;
+}
+
+.fa-facebook {
+  background: #808080;
+  color: white;
+}
+ .fa {
+            padding: 20px;
+            font-size: 15px;
+            text-decoration: none;
+            margin: 4px 10px;
+            float:left;
+}
+
+    </style>
+</head>
+ 
+<body>
+    <center>
