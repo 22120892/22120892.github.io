@@ -104,6 +104,11 @@ width: 200;
 height: 90px;
 
 }
+.img_center {
+  float: center;
+  padding-top: 15px;
+}
+
 
 
 .img-right1 {
