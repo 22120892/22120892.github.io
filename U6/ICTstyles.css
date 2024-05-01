@@ -21,6 +21,16 @@ padding-top: 10px;
 padding-right: 5px;
 }
 
+.img-pad {
+  padding-right: 15px;
+
+}
+.img-pad2{
+  padding-left: 15px;
+
+}
+
+
 
 #maincontent {
 overflow: hidden;
